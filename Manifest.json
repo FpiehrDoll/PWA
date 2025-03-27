@@ -1,0 +1,10 @@
+{
+  "name": "SprawdŸ pogodê",
+  "short_name": "CheckWeather",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/PWA/",
+  "src": "(C:\Users\STUDENTUM\Desktop\Zadanie\chmura.png)",
+}
